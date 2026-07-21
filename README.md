@@ -5,7 +5,7 @@ Project from Day 3 of Angela Yu's 100 Days of Python course.
 
 A text-based adventure game created in Python as part of the 100 Days of Code course.
 
-## What I practiced
+## Skills Demonstrated
 
 - Conditional statements
 - Nested `if`, `elif`, and `else` blocks
